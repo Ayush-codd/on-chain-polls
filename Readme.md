@@ -16,7 +16,9 @@ Our vision is to provide a lightweight, transparent, and decentralized staking s
 - **Multi-token Support**: Extend to support staking of fungible tokens beyond STX.
 
 ## 5. Contract
-**Name**: `on-chain-polls`
+ <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e852699f-74da-4971-be83-f8605333fb49" />
+
+Contract Address: ST2C3HY0XBWD9BQNP46YE9T968J0SK6MQTVZVF4B.On-Chain-Polls
 
 **Functions**:
 - `stake(amount uint)`: Allows a user to stake STX tokens into the contract.
